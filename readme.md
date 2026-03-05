@@ -3,13 +3,10 @@
 
 ### For Reviewers
 
-To reproduce the final submission file, please run the notebook:
+To check the project approach, please check the notebook:
 
 `ml_arena_final_submission.ipynb`
 
-Executing this notebook will generate the output file:
-
-`FINAL.csv`
 
 ## Overview
 
