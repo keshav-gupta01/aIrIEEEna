@@ -1,5 +1,16 @@
 # Device Status Prediction – Kaggle Submission
 
+
+### For Reviewers
+
+To reproduce the final submission file, please run the notebook:
+
+`ml_arena_final_submission.ipynb`
+
+Executing this notebook will generate the output file:
+
+`FINAL.csv`
+
 ## Overview
 
 This project predicts whether a monitoring device is **working (0)** or **not working (1)** based on **47 numeric sensor features**.
@@ -128,13 +139,6 @@ These confirmed that **no data leakage is present** and the model learns genuine
 
 ---
 
-## Output
-
-The final predictions are saved as:
-
-```
-submission.csv
-```
 
 Format:
 
